@@ -1,0 +1,100 @@
+hat1:Vintage Baseball Hat (White)
+hat2:Beanie
+hat3:Camo Cap
+hat4:Baseball cap
+hat5: Vintage Baseball Hat (Black)
+hat6:Twitch Prime Balaclava
+clo1:T-shirt(Striped)
+clo2:Padded Jacket(GREY)
+clo3:Tracksuit Top(Yellow)
+clo4:Long Sleeved T-shirt (Light Blue)
+clo5:T-shirt (Red)
+clo6:Long Sleeved T-shirt (Striped)
+clo7:Padded Jacket (khaki)
+clo8:Long Sleeved T-shirt (Black)
+clo9:Dirty Tank-top (White)
+clo10:School Shirt
+clo11:Shirt (White)
+clo12:Shirt (Black)
+clo13:Bloody Shirt
+clo14:Padded Jacket (Beige)
+clo15:Padded Jacket (Urban)
+clo16:Bloody Tank-top (White)
+clo17:Orange Shirt
+clo18:matched Grey Shirt
+clo19:Tracksuit Top
+clo20:checked shirt (red)
+clo21:Floral Shirt
+clo22:checked shirt (white)
+clo23:Padded Jacket (Camo)
+clo24:Twitch Prime Shirt
+clo25:School Shirt with Necktie
+clo26:Woman's Tuxedo Jacket (Purple)
+clo27:Coat(Gray)
+clo28:Coat(Camel)
+clo29:School Jacket
+clo30:Mandarin Jacket (Black)
+clo31:Mandarin Jacket (Blue)
+clo32:School Shirt (Open)
+clo33:Coat(Red)
+clo34:Coat
+clo35:PLAYERUNKNOWN'S Trenchcoat
+clo36:Grey Shirt
+glo1:Fingerless Gloves (Leather) 
+glo2:Fingerless Gloves (Tan) 
+glo3:Fingerless Gloves (Camo) 
+pan1:Combat Pants (Grey Camo)
+pan2:Combat Pants (White)
+pan3:Combat Pants (camo)
+pan4:Combat Pants (Blue)
+pan5:Combat Pants (Black)
+pan6:Tracksuit Pants (Yellow)
+pan7:Cargo Pants (Blue)
+pan8:Bloody Combat Pants
+pan9:Cargo Pants (Khaki)
+pan10:Slacks (Black)
+pan11:Cargo Pants (Beige)
+pan12:Twitch Prime Combat Pants
+pan13:School Pants
+pan14:Tracksuit Pants
+pan15:Camo Hotpants
+pan16:Slacks (Purple)
+pan17:Pleated Mini-skirt (Blue) 
+pan18:Slacks (Blue) 
+pan19:School Skirt
+pan20:Pleated Mini-skirt (Black)
+pan21:Hotpants (Blue) 
+pan22:Mini-skirt (Purple) 
+pan23:Jeans (Tan) 
+sho1:Brown Hi-top Trainers 
+sho2:Working Boots 
+sho3:Velcro Trainers 
+sho4:Boots (Punk) 
+sho5:Grey Boots
+sho6:Twitch Prime Boots 
+sho7:Blue Hi-top Trainers 
+sho8:Bloody Sneakers 
+sho9:Sneakers (WHITE) 
+sho10:Red Hi-top Trainers 
+sho11:School Shoes 
+gla1:Glasses (Punk)  
+gla2:Rimless Sunglasses 
+gla3:Sunglasses
+gla4:Protective Glasses 
+mas1:Gas Mask (Half)  
+mas2:Gas Mask
+mas3:Ballistic Mask 
+mas4:PLAYERUNKNOWN's Bandana
+box1:GAMESCOM INVITATIONAL CRATE 
+box2:SURVIVOR CRATE 
+box3:WANDERER CRATE
+box4:PLAYERUNKNOWN SET 
+box5:TRACKSUIT SET
+box6:TWITCH PRIME SET 
+box7:IVORY SCHOOL UNIFORM SET (FEMALE) 
+box8:BLACK SCHOOL UNIFORM SET (MALE)
+box9:TUXEDO SET (MALE) 
+box10:IVORY SCHOOL UNIFORM SET (MALE) 
+box11:BLUE SCHOOL UNIFORM SET (MALE)
+box12:INSTRUCTOR SET 
+oth1:GAMESCOM INVITATIONAL KEY 

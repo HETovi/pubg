@@ -1,0 +1,139 @@
+#header1{
+    position: relative;
+    top: -10px;
+    background-color: #444444;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 30px;
+}
+#header2{
+    position: relative;
+    top: -10px;
+    background-color: #444444;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 30px;
+}
+
+h1 {
+    font-family:"微软雅黑 Light";
+    color: #FFFFFF;
+    text-align: center;
+    font-size:16px;
+    padding:8px;
+}
+
+form {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+p {
+    font-family: Verdana, Arial, sans-serif;
+    display: inline-block;
+}
+
+input {
+    font-family: Verdana, Arial, sans-serif;
+    color: #c0c0c0;
+}
+
+textarea {
+    vertical-align: top;
+    width: 400px;
+    color: #c0c0c0;
+}
+
+#wrapper1 {
+    border-left: 1px solid #888;
+    border-right: 1px solid #888;
+    border-bottom: 1px solid #888;
+    position: relative;
+    top: -10px;
+    padding-top: 10px;
+    padding-left: 600px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 3px #444;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1.2em;
+    background-color: #444444;
+    color:#FFFFFF;
+}
+#wrapper2{
+    border-left: 1px solid #888;
+    border-right: 1px solid #888;
+    border-bottom: 1px solid #888;
+    position: relative;
+    top: -10px;
+    padding-top: 10px;
+    padding-left: 600px;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px 3px #444;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1.2em;
+    background-color: #444444;
+    color:#FFFFFF;
+}
+
+#inputs1 {
+    width: 300px;
+    clear: both;
+
+}
+#inputs2{
+    width: 300px;
+    clear: both;
+}
+
+#inputs input {
+    width: 200px;
+    clear: both;
+}
+#inputs2 input[type="submit"] {
+    background: none repeat scroll 0 0 #333333;
+    border: medium none;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+#inputs2 input[type="button"] {
+    background: none repeat scroll 0 0 #333333;
+    border: medium none;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+#inputs2 input[type="button"]:hover{
+    background-color:#0070C9;
+}
+#inputs2 input[type="submit"]:hover{
+    background-color:#0070C9;
+}
+
+#inputs1 input[type="submit"] {
+    background: none repeat scroll 0 0 #333333;
+    border: medium none;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+#inputs1 input[type="button"] {
+    background: none repeat scroll 0 0 #333333;
+    border: medium none;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+#inputs1 input[type="button"]:hover{
+    background-color:#0070C9;
+}
+#inputs1 input[type="submit"]:hover{
+    background-color:#0070C9;
+}
